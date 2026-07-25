@@ -1,47 +1,28 @@
-# Desafio 01 - Página HTML com Estilização CSS
+# Desafio 01 - Página HTML com CSS
+# Challenge 01 - HTML Page with CSS
 
-Um projeto simples demonstrando uma página HTML estilizada com CSS, criado como parte de um desafio de aprendizado.
+**Primeiro desafio do programa In100tiva. Página HTML estilizada com CSS abordando conceitos de layout e formatação.**
 
-## 📋 Tabela de Conteúdos
+**First challenge of the In100tiva program. HTML page styled with CSS covering layout and formatting concepts.**
 
-- [Visão Geral](#-visão-geral)
-- [Funcionalidades](#-funcionalidades)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Como Usar](#-como-usar)
+---
 
-## 🌟 Visão Geral
+## Tecnologias | Technologies
 
-Este projeto foi desenvolvido como um exercício prático para aplicar conceitos básicos de HTML e CSS, incluindo:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- Estrutura semântica HTML
-- Estilização com CSS
-- Box model
-- Seletores básicos
-- Responsividade básica
+## Funcionalidades | Features
 
-## 🚀 Funcionalidades
 
-- Página HTML5 válida
-- Reset CSS básico
-- Estilização de elementos:
-  - Fundo colorido com bordas arredondadas
-  - Texto estilizado
-  - Espaçamento consistente
-- Design responsivo (mobile-friendly)
 
-## 💻 Tecnologias Utilizadas
+---
 
-- HTML5
-- CSS3
+## Autor | Author
 
-## 🔧 Como Usar
+**Marcus Lafaiete** — [@marcuslaf](https://github.com/marcuslaf)
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Marcuslaf/in100tiva_desafio_01
-    
-2. Navegue até o diretório do projeto:
-cd desafio_01
+---
 
-3. Abra o arquivo index.html no seu navegador preferido.
-
+<div align="center">
+  <img src="https://img.shields.io/badge/status-conclu%C3%ADdo-success?style=for-the-badge"/>
+</div>
